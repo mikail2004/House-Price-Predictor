@@ -5,5 +5,6 @@ This project was accomplished without using any ML-specific libraries such as Te
 
 ## Features/Methods
 1. Histogram and scatterplot for analysis.
-2. Prediction with initial random weights, loss calculation, gradient descent and updating weights (training) function as separate modules
-3. A final method that predicts the actual house price by taking in test data and post-training weights.
+2. Rudimentary data cleaning.
+3. Prediction with initial random weights, loss calculation, gradient descent and updating weights (training) function as separate modules.
+4. A final method that predicts the actual house price by taking in test data and post-training weights.
